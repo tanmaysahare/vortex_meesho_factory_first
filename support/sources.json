@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Ministry of Textiles, TEX-RAMPS SOP, April 2026, Annex III(A), Panipat sample plan, printed p.4",
+    "url": "https://www.texmin.gov.in/static/uploads/2026/04/c206cd91bea28100ae113ed9ef95e5c1.pdf",
+    "note": "Read 2 October 2026. Formal-factory total and ASI mix support a planning proxy only. Register populations may differ. No verified eligible lead count or national TAM inferred."
+  },
+  {
+    "id": "2",
+    "title": "Haryana MSME, Cluster directory",
+    "url": "https://msme.haryana.gov.in/clusters/",
+    "note": "Read 2 October 2026. Identifies Panipat home-furnishing cluster infrastructure. No outreach, access agreement or partnership inferred."
+  },
+  {
+    "id": "3",
+    "title": "Panipat Home Textiles, Capabilities",
+    "url": "https://panipathometextiles.com/capabilities",
+    "note": "Read 2 October 2026. Supplier self-disclosure of manufacturing and job-work network. Independently verify ownership and repeat costs."
+  },
+  {
+    "id": "4",
+    "title": "Meesho Tech, Helping Sellers Offer Competitive Prices, 19 August 2022",
+    "url": "https://medium.com/meesho-tech/helping-sellers-offer-competitive-prices-in-bharats-growing-e-commerce-landscape-6313fc944d66",
+    "note": "Read 2 October 2026. Historical primary explanation of matching and price recommendations. No stated historical adoption or uplift transferred to this proposal."
+  },
+  {
+    "id": "5",
+    "title": "Amazon India, Karigar programme",
+    "url": "https://sell.amazon.in/grow-your-business/amazon-karigar",
+    "note": "Read 2 October 2026. Training and catalogue support precedent. Handmade eligibility differs from proposed factory C2M. Not a partnership."
+  },
+  {
+    "id": "6",
+    "title": "Foundation for MSME Clusters, Panipat Textile Recycling Diagnostic Study, February 2026 draft",
+    "url": "https://fmc.org.in/wp-content/uploads/2026/02/Panipat-Textile-Recycling-DSR-Final_Draft-12-02-2026.pdf",
+    "note": "Published research in a recycling subcluster, not interviews by Team Vortex. Not used as cushion-factory cost data."
+  },
+  {
+    "id": "7",
+    "title": "Meesho supplier shipping and returns",
+    "url": "https://supplier.int.meeshogcp.in/shipping",
+    "note": "Official supplier-site mirror read 2 October 2026. Customer-return fee depends on shipment weight. RTO has no additional shipping fee. Actual outward charges and fee deductions must come from seller settlements. No numerical tariff inferred."
+  },
+  {
+    "id": "8",
+    "title": "Pinduoduo 2020 annual report, New Brand initiative, p.63",
+    "url": "https://investor.pddholdings.com/static-files/9b7956e8-e2bc-46f0-8fc2-b6e57bd7079b",
+    "note": "Historical programme mechanism: manufacturer discovery traffic and consumer feedback. Company reported over 1,500 suppliers, 4,000 products and 460 million cumulative orders in its first phase. Not a causal result or Meesho forecast."
+  },
+  {
+    "id": "9",
+    "title": "Meesho supplier growth tools",
+    "url": "https://supplier.int.meeshogcp.in/grow-your-business",
+    "note": "Official supplier-site mirror read 2 October 2026. Existing product/price recommendations, quality feedback and dispatch programme establish the baseline. Availability and terms require seller-panel confirmation."
+  },
+  {
+    "id": "10",
+    "title": "KVIC-hosted cushion-cover project profile, production process",
+    "url": "https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/CushionCoverDPR.pdf",
+    "note": "Reviewed in Round 1. Fabric/thread, cutting, stitching and packing guide SKU evidence checks. Pre-feasibility template, not current production-cost evidence. Fresh automated fetch timed out."
+  },
+  {
+    "id": "11",
+    "title": "Kadyan Home Textile, manufacturer capabilities",
+    "url": "https://kadyanhometextile.com/",
+    "note": "Read 2 October 2026. Cushion and home-textile OEM/QC/packing descriptions provide a discovery lead only. No contact, agreement, independently verified capability or cost advantage claimed."
+  },
+  {
+    "id": "12",
+    "title": "Meesho Investor Relations, LTM June 2026 operating metrics",
+    "url": "https://investor.meesho.com/",
+    "note": "Read 2 October 2026. 274 million+ annual transacting users, 1.04 million+ annual transacting sellers and 2.83 billion+ placed orders for LTM ended June 30, 2026. These are all-platform metrics, not C2M adoption."
+  },
+  {
+    "id": "13",
+    "title": "Meesho founders letter, capital allocation and metric definitions",
+    "url": "https://investor.meesho.com/founders-letter",
+    "note": "Read 2 October 2026. NMV is checkout value of successfully delivered orders inclusive of taxes. Contribution margin uses seller-derived revenue net of directly attributable order costs. Reconcile cohort return adjustments with finance before reporting official NMV."
+  },
+  {
+    "id": "14",
+    "title": "MoSPI ASI 2023-24 Summary Results, Statement 5A, PDF p.39",
+    "url": "https://mospi.gov.in/uploads/publications_reports/publications_reports1759229789833_2b8ed8ad-314e-46b7-b123-b08cb17f1233_ASI_Summary_Results_2023-24C.pdf",
+    "note": "Downloaded and inspected 2 October 2026. 14,079 operating textile factories and 9,759 apparel factories. Broad formal-sector reference universe of 23,838, not C2M-eligible SAM. Categories include upstream non-consumer production and exclude many unregistered firms."
+  }
+]
